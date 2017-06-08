@@ -9,4 +9,5 @@
 
 
 
-- 移动端预览（可以旋转屏幕试试） ![移动端预览](./mobile.png) <img src='./mobile.png' style='width: 30px; height: 30px;'> 
+- 移动端预览（可以旋转屏幕试试） 
+<img src='./mobile.png' width: '30px' height: '30px'> 
