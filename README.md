@@ -10,4 +10,4 @@
 
 
 - 移动端预览（可以旋转屏幕试试） 
-<img src='./mobile.png' width = "100" height = "100" alt="二维码"> 
+<img src='./mobile.png' width = "200" height = "200" alt="二维码" align=center /> 
