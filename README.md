@@ -3,6 +3,6 @@
 
 - 适应各种PC端和移动端
 
-- [PC端预览](https://winters0991.github.io/ResponsiveWeb/dist/index.html)
+- [PC端 点击预览](https://winters0991.github.io/ResponsiveWeb/dist/index.html)
 
-- ![移动端预览](./mobile.png)
+- 移动端预览 ![移动端预览](./mobile.png)
