@@ -5,4 +5,4 @@
 
 - [PC端 点击预览](https://winters0991.github.io/ResponsiveWeb/dist/index.html)
 
-- 移动端预览 ![移动端预览](./mobile.png)
+- 移动端预览（可以旋转屏幕试试） ![移动端预览](./mobile.png)
